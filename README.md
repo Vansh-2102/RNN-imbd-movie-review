@@ -42,11 +42,17 @@ Output (Positive / Negative)
 
 ## 🗂️ Project Structure
 ├── embedding.ipynb # Text preprocessing & embedding
+
 ├── simplernn.ipynb # Model training
+
 ├── prediction.ipynb # Prediction pipeline
+
 ├── simple_rnn_imdb.h5 # Trained model
+
 ├── tokenizer.pkl/json # Tokenizer
+
 ├── app.py # Streamlit app
+
 └── README.md # Project documentation
 
 
