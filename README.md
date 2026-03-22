@@ -41,7 +41,7 @@ Output (Positive / Negative)
 ---
 
 ## 🗂️ Project Structure
-├── embedding.ipynb # Text preprocessing & embedding
+├── embedding.ipynb # Text preprocessing & embedding/n
 ├── simplernn.ipynb # Model training
 ├── prediction.ipynb # Prediction pipeline
 ├── simple_rnn_imdb.h5 # Trained model
